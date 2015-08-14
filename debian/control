@@ -1,0 +1,12 @@
+Source: supervisor
+Maintainer: Adam Backer <backer@xxxxxx.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: python (>= 2.6)
+
+Package: supervisor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: manage daemons
+ supervisor manages services/process/daemons

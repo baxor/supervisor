@@ -1,0 +1,5 @@
+supervisor (4.0-1) UNRELEASED; urgency=low
+
+  * Initial release, with fix for select -> epoll
+
+	 -- Adam Backer <backer@xxxxx.com>  Fri, 14 Aug 2015 15:25:32 +0000
